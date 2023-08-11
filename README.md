@@ -2,29 +2,29 @@
 
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Mr. Aung Zin Lat</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Senior Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungzinlat&label=Profile%20views&color=0e75b6&style=flat" alt="aungzinlat" /> </p>
 
 
-- 🔭 I’m currently working on **ITVisionHub Pte. LTD**
+- 🔭 I’m currently working on **ITVisionHub Co. LTD**
 
-- 🌱 I’m currently learning **PHP, Laravel, React, Vue.js (Full Stack Web Development)**
+- 🌱 I’m currently learning **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Senior Full Stack Web Development)**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **PHP, Laravel, React, DBMS, Server**
 
 - 📫 How to reach me **aungzinlatt007@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aung-zin-latt-6508291b2/](https://www.linkedin.com/in/aung-zin-latt-6508291b2/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/liam-dev/](https://www.linkedin.com/in/liam-dev/)
 
 - ⚡ Fun fact **I think I'm funny 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aung-zin-latt-6508291b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aung-zin-latt-6508291b2/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aung-zin-latt-6508291b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/liam-dev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21020699/aung-zin-lat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21020699/aung-zin-lat" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aung.zinlatt.14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aung.zinlatt.14/" height="30" width="40" /></a>
 </p>
