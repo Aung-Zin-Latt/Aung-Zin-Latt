@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungzinlat&label=Profile%20views&color=0e75b6&style=flat" alt="aungzinlat" /> </p>
 
 
-- 🔭 I’m currently working on **ITVisionHub Co. LTD**
+- 🔭 I’m currently working on **Metropolis Security Systems Pte. LTD**
 
 - 🌱 I’m currently learning **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Senior Full Stack Web Development)**
 
