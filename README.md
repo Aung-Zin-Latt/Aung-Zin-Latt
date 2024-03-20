@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **PHP, Laravel, React, DBMS, Server**
+- 💬 Ask me about **PHP, Laravel, Vue, React, DBMS, Servers**
 
 - 📫 How to reach me **aungzinlatt007@gmail.com**
 
