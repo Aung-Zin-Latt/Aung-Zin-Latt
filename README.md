@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Metropolis Security Systems Pte. LTD**
 
-- 🌱 I’m currently learning **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Senior Full Stack Web Development)**
+- 🌱 Currently, my hands-on experience is in **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Senior Full Stack Web Development)**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
