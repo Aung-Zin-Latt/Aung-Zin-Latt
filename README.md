@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Mr. Aung Zin Lat</h1>
+<h1 align="center">Hi 👋, I'm Mr. Aung Zin Latt</h1>
 <h3 align="center">Senior Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
