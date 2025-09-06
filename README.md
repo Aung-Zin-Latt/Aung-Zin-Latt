@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm Mr. Aung Zin Latt</h1>
-<h3 align="center">Senior Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Aung Zin Latt</h1>
+<h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungzinlat&label=Profile%20views&color=0e75b6&style=flat" alt="aungzinlat" /> </p>
 
 
-- 🔭 I’m currently working on **Metropolis Security Systems Pte. LTD**
+- 🔭 I recently worked at **Metropolis Security Systems Pte. LTD**
 
-- 🌱 Currently, my hands-on experience is in **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Senior Full Stack Web Development)**
+- 🌱 Currently, my hands-on experience is in **PHP, Laravel, React, Vue.js, MySQL, MongoDB, AWS, Digital Ocean, MicroServices (Full Stack Development)**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
